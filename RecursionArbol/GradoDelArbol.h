@@ -1,5 +1,3 @@
 #pragma once
 
-#include <iostream>
-
-int alturaDelArbol(std::string arbol);
+int alturaDelArbol(std::string arbol);	// Encabezado de la función principal
